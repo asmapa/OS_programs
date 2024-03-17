@@ -1,3 +1,6 @@
+//This help to find FCFS SJF priority and Round Robin scheduling
+//it calculates response time,completion time,turn around time(include average)and waiting time(avg also)
+
 #include<stdio.h>
 #include<stdlib.h>
 
