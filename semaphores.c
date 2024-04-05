@@ -1,3 +1,5 @@
+//in this problem we analyse the implementation of semaphores without using built in functions
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
