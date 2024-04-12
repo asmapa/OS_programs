@@ -1,4 +1,4 @@
-// user1.c
+// user1.c(This is a chat server,one user put message another one read that and replay,like our watsapp and instagram)
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
